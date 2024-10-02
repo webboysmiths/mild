@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://webboysmiths.github.io/mild/sitemap_index.xml
